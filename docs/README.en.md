@@ -133,4 +133,4 @@ No CI workflows are included. Checks run locally without using GitHub Actions mi
 
 This is an initial functional version with a deliberately limited scope. See the [changelog](../CHANGELOG.md).
 
-A distribution license is pending the rights holder's decision. This repository does not yet declare an open-source license.
+Copyright 2026 mat-l-dev. Licensed under the [Apache License 2.0](../LICENSE). See the full license text for its permissions, conditions, and limitations.

@@ -133,4 +133,4 @@ No se incluyen workflows de CI. Las comprobaciones se ejecutan localmente y no c
 
 Primera versión funcional, con alcance deliberadamente limitado. Consulta el [historial de cambios](CHANGELOG.md).
 
-La licencia de distribución está pendiente de decisión del titular. Este repositorio todavía no declara una licencia de código abierto.
+Copyright 2026 mat-l-dev. Distribuido bajo la licencia [Apache-2.0](LICENSE). Consulta el texto completo de la licencia para sus permisos, condiciones y limitaciones.

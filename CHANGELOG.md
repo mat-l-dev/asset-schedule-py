@@ -2,6 +2,7 @@
 
 ## 0.1.0 — sin publicar
 
+- Licencia Apache-2.0 incluida en el repositorio, sdist y wheel; metadatos SPDX explícitos.
 - API tipada para calendarios de depreciación lineal de meses completos.
 - Importes en unidades menores enteras y reparto del resto en los primeros períodos.
 - Filas inmutables con depreciación, acumulado y valor en libros.
@@ -11,4 +12,4 @@
 
 ### Límites
 
-Sin tasas fiscales, meses parciales ni certificación de cumplimiento. Sin dependencias de ejecución ni workflows de CI. Licencia de distribución pendiente.
+Sin tasas fiscales, meses parciales ni certificación de cumplimiento. Sin dependencias de ejecución ni workflows de CI.
