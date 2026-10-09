@@ -1,0 +1,39 @@
+{
+  "schema_version": 1,
+  "method": "straight-line",
+  "remainder_allocation": "earliest-periods",
+  "inputs": {
+    "cost_minor": 100000,
+    "residual_minor": 10000,
+    "periods": 3,
+    "start_year": 2026,
+    "start_month": 11
+  },
+  "total_depreciation_minor": 90000,
+  "schedule": [
+    {
+      "period": 1,
+      "year": 2026,
+      "month": 11,
+      "depreciation_minor": 30000,
+      "accumulated_depreciation_minor": 30000,
+      "carrying_value_minor": 70000
+    },
+    {
+      "period": 2,
+      "year": 2026,
+      "month": 12,
+      "depreciation_minor": 30000,
+      "accumulated_depreciation_minor": 60000,
+      "carrying_value_minor": 40000
+    },
+    {
+      "period": 3,
+      "year": 2027,
+      "month": 1,
+      "depreciation_minor": 30000,
+      "accumulated_depreciation_minor": 90000,
+      "carrying_value_minor": 10000
+    }
+  ]
+}
